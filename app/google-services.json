@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134163366741",
+    "firebase_url": "https://phrasal-descent-238516.firebaseio.com",
+    "project_id": "phrasal-descent-238516",
+    "storage_bucket": "phrasal-descent-238516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134163366741:android:db68a6260753c6a1",
+        "android_client_info": {
+          "package_name": "com.google.cloud.android.speech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134163366741-gvrs9rtpkukrrg2scts35g2o240p1c93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.cloud.android.speech",
+            "certificate_hash": "ac4f8d3a21309380bebcc87c1a91a0f544a8b06b"
+          }
+        },
+        {
+          "client_id": "134163366741-02jje1o8rtetsdr65tiel533mo50297g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgJzjgclUuX1EYkVMEJaT11rYZnktGBa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134163366741-02jje1o8rtetsdr65tiel533mo50297g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
